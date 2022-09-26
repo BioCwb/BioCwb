@@ -1,15 +1,20 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+#  Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/BioCwb/BioCwb](https://www.linkedin.com/in/fabio-augusto-santos-a148b12b">
+  <a href = "https://www.linkedin.com/in/fabio-augusto-santos-a148b12b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href = "https://www.frontendmentor.io/profile/BioCwb">
+  <img src="https://img.shields.io/badge/frontendmentor-red?style=for-the-badge&logo=youtube&logoColor=white" alt="web Badge"/>
+  </a>
 </div>
 
 Sou desenvolvedor front-end junior, estudando back-end, iniciei na profissão em dezenbro de 2021 no alto de meus 42 anos de idade.(https://github.com/BioCwb/BioCwb).
+ <br>
+ <h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 - ❤ profissional / Estudante de Desenvolvimento font-end 
 - 💙 Fã de games
