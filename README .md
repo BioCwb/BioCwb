@@ -16,7 +16,7 @@ Sou desenvolvedor front-end junior, estudando back-end, iniciei na profissão em
     :construction:  Projeto em construção  :construction:
 </h4>
 
-- ❤ profissional / Estudante de Desenvolvimento font-end 
+- 🐱‍👤 profissional / Estudante de Desenvolvimento font-end 
 - 💙 Fã de games
 - 👩‍💻 Aprendendo algo sobre back-end
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
