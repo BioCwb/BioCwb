@@ -10,15 +10,31 @@
   </a>
 </div>
 
-Sou desenvolvedor front-end junior, estudando back-end, iniciei na profissão em dezenbro de 2021 no alto de meus 42 anos de idade.(https://github.com/BioCwb/BioCwb).
+Sou desenvolvedor junior, estudando back-end, iniciei na profissão em dezenbro de 2021 no alto de meus 42 anos de idade.(https://github.com/BioCwb/BioCwb).
  <br>
  <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
 
+
 - 🐱‍👤 profissional / Estudante de Desenvolvimento font-end 
 - 💙 Fã de games
 - 👩‍💻 Aprendendo algo sobre back-end
+- Experiência em tecnologias de desenvolvimento frontend (c#, Javascript ES5+, TypeScript, HTML5 e CSS);
+
+- Experiência prática com framework e bibliotecas Javascript de mercado (React JS, Vue.js, mas principalmente Angular 7+);
+
+- Conhecimento de arquitetura de projetos micro frontend, estrutura de dados, algoritmos e padrões de projeto de software;
+
+- Testes unitários, BDD e integração;
+
+- Ferramentas de versionamento (preferêncialmente git);
+
+- Conhecimento e vivência em Azure DevOps;
+
+- Conhecimento e vivência em Projetos em Metodologias Ágeis (Scrum, Kanban);
+- Conhecimento em: NodeJS, CI/CD Azure, API Gateway e Swagger;
+- Conhecimento em aplicações de validação comunicação de API (Postman).
 - ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 <div>
