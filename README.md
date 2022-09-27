@@ -22,7 +22,7 @@ Sou desenvolvedor junior, estudando back-end, iniciei na profissão em dezenbro 
 - 👩‍💻 Aprendendo algo sobre back-end
 - Experiência em tecnologias de desenvolvimento frontend (c#, Javascript ES5+, TypeScript, HTML5 e CSS);
 
-- Experiência prática com framework e bibliotecas Javascript de mercado (React JS, Vue.js, mas principalmente Angular 7+);
+- Experiência prática com framework e bibliotecas Javascript de mercado ( mas principalmente Angular 7+);
 
 - Conhecimento de arquitetura de projetos micro frontend, estrutura de dados, algoritmos e padrões de projeto de software;
 
