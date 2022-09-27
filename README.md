@@ -21,17 +21,12 @@ Sou desenvolvedor junior, estudando back-end, iniciei na profissão em dezenbro 
 - 💙 Fã de games
 - 👩‍💻 Aprendendo algo sobre back-end
 - Experiência em tecnologias de desenvolvimento frontend (c#, Javascript ES5+, TypeScript, HTML5 e CSS);
-
 - Experiência prática com framework e bibliotecas Javascript de mercado ( mas principalmente Angular 7+);
-
 - Conhecimento de arquitetura de projetos micro frontend, estrutura de dados, algoritmos e padrões de projeto de software;
-
 - Testes unitários, BDD e integração;
-
+- Conhecimento em Banco de dados ( SQL Server);
 - Ferramentas de versionamento (preferêncialmente git);
-
 - Conhecimento e vivência em Azure DevOps;
-
 - Conhecimento e vivência em Projetos em Metodologias Ágeis (Scrum, Kanban);
 - Conhecimento em: NodeJS, CI/CD Azure, API Gateway e Swagger;
 - Conhecimento em aplicações de validação comunicação de API (Postman).
