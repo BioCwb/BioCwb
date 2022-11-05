@@ -10,7 +10,7 @@
   </a>
 </div>
 
-Sou desenvolvedor junior, estudando back-end, iniciei na profissão em dezenbro de 2021 no alto de meus 42 anos de idade.(https://github.com/BioCwb/BioCwb).
+Sou desenvolvedor junior, estudando back-end, iniciei na profissão em outubro de 2021 no alto de meus 42 anos de idade.(https://github.com/BioCwb/BioCwb).
  <br>
  <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
